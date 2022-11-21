@@ -1,4 +1,4 @@
-package shopTestWithoutPayment;
+package shopWithoutPayment;
 
 import java.util.ArrayList;
 

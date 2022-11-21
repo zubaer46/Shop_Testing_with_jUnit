@@ -1,4 +1,4 @@
-package shopTestWithoutPayment;
+package shopWithoutPayment;
 
 public class Payment {
     public int TotalPrice;
